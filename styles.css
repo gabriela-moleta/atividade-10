@@ -1,0 +1,57 @@
+.edu {
+    background-color:#ff5e01;
+    border-radius: 30px;
+    color: #ffffff;
+}
+
+.edu img{
+     border-radius: 100%;
+     width: 150px;
+     height: 150px;
+   overflow: hidden;
+   margin: -50px auto 10px;
+   border: 5px solid #ffffff;
+
+}
+
+.btn {
+    background-color: #ffffff;
+    border-radius: 30px;
+    color: #ff5709;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: none;
+    display: block;
+ 
+}
+
+.card-title {
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+}
+
+.card-text {
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.social-icons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.social-icons a {
+    color: #555;
+    font-size: 24px;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.social-icons a:hover {
+    color: #ffffff; 
+}
